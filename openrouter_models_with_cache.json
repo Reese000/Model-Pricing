@@ -1,0 +1,1663 @@
+{
+  "fetched_at": "2026-07-23",
+  "total_models_with_cache_pricing": 184,
+  "source": "https://openrouter.ai/api/v1/models",
+  "models": [
+    {
+      "id": "inclusionai/ling-2.6-flash",
+      "name": "inclusionAI: Ling-2.6-flash",
+      "prompt_per_M": 0.01,
+      "completion_per_M": 0.03,
+      "cache_read_per_M": 0.002,
+      "discount_pct": 80.0,
+      "context": 262144
+    },
+    {
+      "id": "nex-agi/nex-n2-mini",
+      "name": "Nex AGI: Nex-N2-Mini",
+      "prompt_per_M": 0.025,
+      "completion_per_M": 0.1,
+      "cache_read_per_M": 0.0025,
+      "discount_pct": 90.0,
+      "context": 262144
+    },
+    {
+      "id": "xiaomi/mimo-v2.5",
+      "name": "Xiaomi: MiMo-V2.5",
+      "prompt_per_M": 0.14,
+      "completion_per_M": 0.28,
+      "cache_read_per_M": 0.0028,
+      "discount_pct": 98.0,
+      "context": 1050000
+    },
+    {
+      "id": "xiaomi/mimo-v2.5-pro",
+      "name": "Xiaomi: MiMo-V2.5-Pro",
+      "prompt_per_M": 0.435,
+      "completion_per_M": 0.87,
+      "cache_read_per_M": 0.0036,
+      "discount_pct": 99.2,
+      "context": 1050000
+    },
+    {
+      "id": "deepseek/deepseek-v4-pro",
+      "name": "DeepSeek: DeepSeek V4 Pro",
+      "prompt_per_M": 0.435,
+      "completion_per_M": 0.87,
+      "cache_read_per_M": 0.003625,
+      "discount_pct": 99.2,
+      "context": 1048576
+    },
+    {
+      "id": "openai/gpt-5-nano",
+      "name": "OpenAI: GPT-5 Nano",
+      "prompt_per_M": 0.05,
+      "completion_per_M": 0.4,
+      "cache_read_per_M": 0.005,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "meituan/longcat-2.0",
+      "name": "Meituan: LongCat 2.0",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 1.2,
+      "cache_read_per_M": 0.006,
+      "discount_pct": 98.0,
+      "context": 1048756
+    },
+    {
+      "id": "poolside/laguna-s-2.1",
+      "name": "Poolside: Laguna S 2.1",
+      "prompt_per_M": 0.1,
+      "completion_per_M": 0.2,
+      "cache_read_per_M": 0.01,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "z-ai/glm-4.7-flash",
+      "name": "Z.ai: GLM 4.7 Flash",
+      "prompt_per_M": 0.06,
+      "completion_per_M": 0.4,
+      "cache_read_per_M": 0.01,
+      "discount_pct": 83.3,
+      "context": 202752
+    },
+    {
+      "id": "mistralai/ministral-3b-2512",
+      "name": "Mistral: Ministral 3 3B 2512",
+      "prompt_per_M": 0.1,
+      "completion_per_M": 0.1,
+      "cache_read_per_M": 0.01,
+      "discount_pct": 90.0,
+      "context": 131072
+    },
+    {
+      "id": "mistralai/voxtral-small-24b-2507",
+      "name": "Mistral: Voxtral Small 24B 2507",
+      "prompt_per_M": 0.1,
+      "completion_per_M": 0.3,
+      "cache_read_per_M": 0.01,
+      "discount_pct": 90.0,
+      "context": 32000
+    },
+    {
+      "id": "google/gemini-2.5-flash-lite",
+      "name": "Google: Gemini 2.5 Flash Lite",
+      "prompt_per_M": 0.1,
+      "completion_per_M": 0.4,
+      "cache_read_per_M": 0.01,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "mistralai/mistral-small-3.2-24b-instruct",
+      "name": "Mistral: Mistral Small 3.2 24B",
+      "prompt_per_M": 0.1,
+      "completion_per_M": 0.3,
+      "cache_read_per_M": 0.01,
+      "discount_pct": 90.0,
+      "context": 256000
+    },
+    {
+      "id": "inclusionai/ring-2.6-1t",
+      "name": "inclusionAI: Ring-2.6-1T",
+      "prompt_per_M": 0.075,
+      "completion_per_M": 0.625,
+      "cache_read_per_M": 0.015,
+      "discount_pct": 80.0,
+      "context": 262144
+    },
+    {
+      "id": "inclusionai/ling-2.6-1t",
+      "name": "inclusionAI: Ling-2.6-1T",
+      "prompt_per_M": 0.075,
+      "completion_per_M": 0.625,
+      "cache_read_per_M": 0.015,
+      "discount_pct": 80.0,
+      "context": 262144
+    },
+    {
+      "id": "mistralai/mistral-small-2603",
+      "name": "Mistral: Mistral Small 4",
+      "prompt_per_M": 0.15,
+      "completion_per_M": 0.6,
+      "cache_read_per_M": 0.015,
+      "discount_pct": 90.0,
+      "context": 262144
+    },
+    {
+      "id": "upstage/solar-pro-3",
+      "name": "Upstage: Solar Pro 3",
+      "prompt_per_M": 0.15,
+      "completion_per_M": 0.6,
+      "cache_read_per_M": 0.015,
+      "discount_pct": 90.0,
+      "context": 128000
+    },
+    {
+      "id": "mistralai/ministral-8b-2512",
+      "name": "Mistral: Ministral 3 8B 2512",
+      "prompt_per_M": 0.15,
+      "completion_per_M": 0.15,
+      "cache_read_per_M": 0.015,
+      "discount_pct": 90.0,
+      "context": 262144
+    },
+    {
+      "id": "deepseek/deepseek-v4-flash",
+      "name": "DeepSeek: DeepSeek V4 Flash",
+      "prompt_per_M": 0.098,
+      "completion_per_M": 0.196,
+      "cache_read_per_M": 0.0196,
+      "discount_pct": 80.0,
+      "context": 1048576
+    },
+    {
+      "id": "openai/gpt-5.4-nano",
+      "name": "OpenAI: GPT-5.4 Nano",
+      "prompt_per_M": 0.2,
+      "completion_per_M": 1.25,
+      "cache_read_per_M": 0.02,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "mistralai/ministral-14b-2512",
+      "name": "Mistral: Ministral 3 14B 2512",
+      "prompt_per_M": 0.2,
+      "completion_per_M": 0.2,
+      "cache_read_per_M": 0.02,
+      "discount_pct": 90.0,
+      "context": 262144
+    },
+    {
+      "id": "mistralai/mistral-saba",
+      "name": "Mistral: Saba",
+      "prompt_per_M": 0.2,
+      "completion_per_M": 0.6,
+      "cache_read_per_M": 0.02,
+      "discount_pct": 90.0,
+      "context": 32768
+    },
+    {
+      "id": "tencent/hy3-preview",
+      "name": "Tencent: Hy3 preview",
+      "prompt_per_M": 0.063,
+      "completion_per_M": 0.21,
+      "cache_read_per_M": 0.021,
+      "discount_pct": 66.7,
+      "context": 262144
+    },
+    {
+      "id": "nex-agi/nex-n2-pro",
+      "name": "Nex AGI: Nex-N2-Pro",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 1.0,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 90.0,
+      "context": 262144
+    },
+    {
+      "id": "google/gemini-3.1-flash-lite",
+      "name": "Google: Gemini 3.1 Flash Lite",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 1.5,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "inception/mercury-2",
+      "name": "Inception: Mercury 2",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 0.75,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 90.0,
+      "context": 128000
+    },
+    {
+      "id": "google/gemini-3.1-flash-lite-preview",
+      "name": "Google: Gemini 3.1 Flash Lite Preview",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 1.5,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "openai/gpt-5.1-codex-mini",
+      "name": "OpenAI: GPT-5.1-Codex-Mini",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 2.0,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-5-mini",
+      "name": "OpenAI: GPT-5 Mini",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 2.0,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "z-ai/glm-4.5-air",
+      "name": "Z.ai: GLM 4.5 Air",
+      "prompt_per_M": 0.13,
+      "completion_per_M": 0.85,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 80.8,
+      "context": 131072
+    },
+    {
+      "id": "openai/gpt-4.1-nano",
+      "name": "OpenAI: GPT-4.1 Nano",
+      "prompt_per_M": 0.1,
+      "completion_per_M": 0.4,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 75.0,
+      "context": 1047576
+    },
+    {
+      "id": "meta-llama/llama-3.1-8b-instruct",
+      "name": "Meta: Llama 3.1 8B Instruct",
+      "prompt_per_M": 0.05,
+      "completion_per_M": 0.08,
+      "cache_read_per_M": 0.025,
+      "discount_pct": 50.0,
+      "context": 131072
+    },
+    {
+      "id": "google/gemini-3.5-flash-lite",
+      "name": "Google: Gemini 3.5 Flash Lite",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 2.5,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "kwaipilot/kat-coder-air-v2.5",
+      "name": "Kwaipilot: KAT-Coder-Air V2.5",
+      "prompt_per_M": 0.15,
+      "completion_per_M": 0.6,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 80.0,
+      "context": 256000
+    },
+    {
+      "id": "poolside/laguna-xs-2.1",
+      "name": "Poolside: Laguna XS 2.1",
+      "prompt_per_M": 0.06,
+      "completion_per_M": 0.12,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 50.0,
+      "context": 262144
+    },
+    {
+      "id": "minimax/minimax-m2-her",
+      "name": "MiniMax: MiniMax M2-her",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 1.2,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 90.0,
+      "context": 65536
+    },
+    {
+      "id": "minimax/minimax-m2.1",
+      "name": "MiniMax: MiniMax M2.1",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 1.2,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 90.0,
+      "context": 204800
+    },
+    {
+      "id": "minimax/minimax-m2",
+      "name": "MiniMax: MiniMax M2",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 1.2,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 90.0,
+      "context": 204800
+    },
+    {
+      "id": "google/gemini-2.5-flash-image",
+      "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 2.5,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 90.0,
+      "context": 32768
+    },
+    {
+      "id": "openai/gpt-oss-20b",
+      "name": "OpenAI: gpt-oss-20b",
+      "prompt_per_M": 0.03,
+      "completion_per_M": 0.13,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 0.0,
+      "context": 131072
+    },
+    {
+      "id": "mistralai/codestral-2508",
+      "name": "Mistral: Codestral 2508",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 0.9,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 90.0,
+      "context": 256000
+    },
+    {
+      "id": "google/gemini-2.5-flash",
+      "name": "Google: Gemini 2.5 Flash",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 2.5,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "anthropic/claude-3-haiku",
+      "name": "Anthropic: Claude 3 Haiku",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 1.25,
+      "cache_read_per_M": 0.03,
+      "discount_pct": 88.0,
+      "context": 200000
+    },
+    {
+      "id": "tencent/hy3",
+      "name": "Tencent: Hy3",
+      "prompt_per_M": 0.14,
+      "completion_per_M": 0.58,
+      "cache_read_per_M": 0.035,
+      "discount_pct": 75.0,
+      "context": 262144
+    },
+    {
+      "id": "openai/gpt-oss-safeguard-20b",
+      "name": "OpenAI: gpt-oss-safeguard-20b",
+      "prompt_per_M": 0.075,
+      "completion_per_M": 0.3,
+      "cache_read_per_M": 0.0375,
+      "discount_pct": 50.0,
+      "context": 131072
+    },
+    {
+      "id": "qwen/qwen3-coder-flash",
+      "name": "Qwen: Qwen3 Coder Flash",
+      "prompt_per_M": 0.195,
+      "completion_per_M": 0.975,
+      "cache_read_per_M": 0.039,
+      "discount_pct": 80.0,
+      "context": 1000000
+    },
+    {
+      "id": "stepfun/step-3.7-flash",
+      "name": "StepFun: Step 3.7 Flash",
+      "prompt_per_M": 0.2,
+      "completion_per_M": 1.15,
+      "cache_read_per_M": 0.04,
+      "discount_pct": 80.0,
+      "context": 262144
+    },
+    {
+      "id": "mistralai/devstral-2512",
+      "name": "Mistral: Devstral 2 2512",
+      "prompt_per_M": 0.4,
+      "completion_per_M": 2.0,
+      "cache_read_per_M": 0.04,
+      "discount_pct": 90.0,
+      "context": 262144
+    },
+    {
+      "id": "mistralai/mistral-medium-3.1",
+      "name": "Mistral: Mistral Medium 3.1",
+      "prompt_per_M": 0.4,
+      "completion_per_M": 2.0,
+      "cache_read_per_M": 0.04,
+      "discount_pct": 90.0,
+      "context": 131072
+    },
+    {
+      "id": "mistralai/mistral-medium-3",
+      "name": "Mistral: Mistral Medium 3",
+      "prompt_per_M": 0.4,
+      "completion_per_M": 2.0,
+      "cache_read_per_M": 0.04,
+      "discount_pct": 90.0,
+      "context": 131072
+    },
+    {
+      "id": "ibm-granite/granite-4.1-8b",
+      "name": "IBM: Granite 4.1 8B",
+      "prompt_per_M": 0.05,
+      "completion_per_M": 0.1,
+      "cache_read_per_M": 0.05,
+      "discount_pct": 0.0,
+      "context": 131072
+    },
+    {
+      "id": "google/gemma-4-26b-a4b-it",
+      "name": "Google: Gemma 4 26B A4B ",
+      "prompt_per_M": 0.12,
+      "completion_per_M": 0.35,
+      "cache_read_per_M": 0.05,
+      "discount_pct": 58.3,
+      "context": 262144
+    },
+    {
+      "id": "minimax/minimax-m2.7",
+      "name": "MiniMax: MiniMax M2.7",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 1.0,
+      "cache_read_per_M": 0.05,
+      "discount_pct": 80.0,
+      "context": 204800
+    },
+    {
+      "id": "minimax/minimax-m2.5",
+      "name": "MiniMax: MiniMax M2.5",
+      "prompt_per_M": 0.15,
+      "completion_per_M": 0.9,
+      "cache_read_per_M": 0.05,
+      "discount_pct": 66.7,
+      "context": 204800
+    },
+    {
+      "id": "google/gemini-3-flash-preview",
+      "name": "Google: Gemini 3 Flash Preview",
+      "prompt_per_M": 0.5,
+      "completion_per_M": 3.0,
+      "cache_read_per_M": 0.05,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "mistralai/mistral-large-2512",
+      "name": "Mistral: Mistral Large 3 2512",
+      "prompt_per_M": 0.5,
+      "completion_per_M": 1.5,
+      "cache_read_per_M": 0.05,
+      "discount_pct": 90.0,
+      "context": 262144
+    },
+    {
+      "id": "qwen/qwen-plus",
+      "name": "Qwen: Qwen-Plus",
+      "prompt_per_M": 0.26,
+      "completion_per_M": 0.78,
+      "cache_read_per_M": 0.052,
+      "discount_pct": 80.0,
+      "context": 1000000
+    },
+    {
+      "id": "z-ai/glm-4.6v",
+      "name": "Z.ai: GLM 4.6V",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 0.9,
+      "cache_read_per_M": 0.055,
+      "discount_pct": 81.7,
+      "context": 131072
+    },
+    {
+      "id": "minimax/minimax-m3",
+      "name": "MiniMax: MiniMax M3",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 1.2,
+      "cache_read_per_M": 0.06,
+      "discount_pct": 80.0,
+      "context": 1048576
+    },
+    {
+      "id": "arcee-ai/trinity-large-thinking",
+      "name": "Arcee AI: Trinity Large Thinking",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 0.8,
+      "cache_read_per_M": 0.06,
+      "discount_pct": 76.0,
+      "context": 262144
+    },
+    {
+      "id": "kwaipilot/kat-coder-pro-v2",
+      "name": "Kwaipilot: KAT-Coder-Pro V2",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 1.2,
+      "cache_read_per_M": 0.06,
+      "discount_pct": 80.0,
+      "context": 262144
+    },
+    {
+      "id": "qwen/qwen3.7-plus",
+      "name": "Qwen: Qwen3.7 Plus",
+      "prompt_per_M": 0.32,
+      "completion_per_M": 1.28,
+      "cache_read_per_M": 0.064,
+      "discount_pct": 80.0,
+      "context": 1000000
+    },
+    {
+      "id": "qwen/qwen3-coder-next",
+      "name": "Qwen: Qwen3 Coder Next",
+      "prompt_per_M": 0.11,
+      "completion_per_M": 0.8,
+      "cache_read_per_M": 0.07,
+      "discount_pct": 36.4,
+      "context": 262144
+    },
+    {
+      "id": "~openai/gpt-mini-latest",
+      "name": "OpenAI GPT Mini Latest",
+      "prompt_per_M": 0.75,
+      "completion_per_M": 4.5,
+      "cache_read_per_M": 0.075,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-5.4-mini",
+      "name": "OpenAI: GPT-5.4 Mini",
+      "prompt_per_M": 0.75,
+      "completion_per_M": 4.5,
+      "cache_read_per_M": 0.075,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-4o-mini",
+      "name": "OpenAI: GPT-4o-mini",
+      "prompt_per_M": 0.15,
+      "completion_per_M": 0.6,
+      "cache_read_per_M": 0.075,
+      "discount_pct": 50.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-4o-mini-2024-07-18",
+      "name": "OpenAI: GPT-4o-mini (2024-07-18)",
+      "prompt_per_M": 0.15,
+      "completion_per_M": 0.6,
+      "cache_read_per_M": 0.075,
+      "discount_pct": 50.0,
+      "context": 128000
+    },
+    {
+      "id": "z-ai/glm-4.7",
+      "name": "Z.ai: GLM 4.7",
+      "prompt_per_M": 0.4,
+      "completion_per_M": 1.75,
+      "cache_read_per_M": 0.08,
+      "discount_pct": 80.0,
+      "context": 204800
+    },
+    {
+      "id": "google/gemma-4-31b-it",
+      "name": "Google: Gemma 4 31B",
+      "prompt_per_M": 0.12,
+      "completion_per_M": 0.35,
+      "cache_read_per_M": 0.09,
+      "discount_pct": 25.0,
+      "context": 262144
+    },
+    {
+      "id": "moonshotai/kimi-k2.5",
+      "name": "MoonshotAI: Kimi K2.5",
+      "prompt_per_M": 0.57,
+      "completion_per_M": 2.85,
+      "cache_read_per_M": 0.095,
+      "discount_pct": 83.3,
+      "context": 262144
+    },
+    {
+      "id": "openai/gpt-5.6-luna-pro",
+      "name": "OpenAI: GPT-5.6 Luna Pro",
+      "prompt_per_M": 1.0,
+      "completion_per_M": 6.0,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "openai/gpt-5.6-luna",
+      "name": "OpenAI: GPT-5.6 Luna",
+      "prompt_per_M": 1.0,
+      "completion_per_M": 6.0,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "nvidia/nemotron-3-ultra-550b-a55b",
+      "name": "NVIDIA: Nemotron 3 Ultra",
+      "prompt_per_M": 0.5,
+      "completion_per_M": 2.2,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 80.0,
+      "context": 512288
+    },
+    {
+      "id": "poolside/laguna-m.1",
+      "name": "Poolside: Laguna M.1",
+      "prompt_per_M": 0.2,
+      "completion_per_M": 0.4,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 50.0,
+      "context": 262144
+    },
+    {
+      "id": "~anthropic/claude-haiku-latest",
+      "name": "Anthropic Claude Haiku Latest",
+      "prompt_per_M": 1.0,
+      "completion_per_M": 5.0,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 90.0,
+      "context": 200000
+    },
+    {
+      "id": "anthropic/claude-haiku-4.5",
+      "name": "Anthropic: Claude Haiku 4.5",
+      "prompt_per_M": 1.0,
+      "completion_per_M": 5.0,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 90.0,
+      "context": 200000
+    },
+    {
+      "id": "z-ai/glm-4.6",
+      "name": "Z.ai: GLM 4.6",
+      "prompt_per_M": 0.5,
+      "completion_per_M": 2.0,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 80.0,
+      "context": 204800
+    },
+    {
+      "id": "qwen/qwen3-vl-235b-a22b-instruct",
+      "name": "Qwen: Qwen3 VL 235B A22B Instruct",
+      "prompt_per_M": 0.21,
+      "completion_per_M": 1.9,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 52.4,
+      "context": 262144
+    },
+    {
+      "id": "qwen/qwen3-coder",
+      "name": "Qwen: Qwen3 Coder 480B A35B",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 1.0,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 66.7,
+      "context": 262144
+    },
+    {
+      "id": "bytedance/ui-tars-1.5-7b",
+      "name": "ByteDance: UI-TARS 7B ",
+      "prompt_per_M": 0.1,
+      "completion_per_M": 0.2,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 0.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-4.1-mini",
+      "name": "OpenAI: GPT-4.1 Mini",
+      "prompt_per_M": 0.4,
+      "completion_per_M": 1.6,
+      "cache_read_per_M": 0.1,
+      "discount_pct": 75.0,
+      "context": 1047576
+    },
+    {
+      "id": "z-ai/glm-4.5v",
+      "name": "Z.ai: GLM 4.5V",
+      "prompt_per_M": 0.6,
+      "completion_per_M": 1.8,
+      "cache_read_per_M": 0.11,
+      "discount_pct": 81.7,
+      "context": 65536
+    },
+    {
+      "id": "z-ai/glm-4.5",
+      "name": "Z.ai: GLM 4.5",
+      "prompt_per_M": 0.6,
+      "completion_per_M": 2.2,
+      "cache_read_per_M": 0.11,
+      "discount_pct": 81.7,
+      "context": 131072
+    },
+    {
+      "id": "qwen/qwen3.6-27b",
+      "name": "Qwen: Qwen3.6 27B",
+      "prompt_per_M": 0.6,
+      "completion_per_M": 3.6,
+      "cache_read_per_M": 0.12,
+      "discount_pct": 80.0,
+      "context": 262144
+    },
+    {
+      "id": "openai/gpt-5.1-codex-max",
+      "name": "OpenAI: GPT-5.1-Codex-Max",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-5.1",
+      "name": "OpenAI: GPT-5.1",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-5.1-chat",
+      "name": "OpenAI: GPT-5.1 Chat",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-5.1-codex",
+      "name": "OpenAI: GPT-5.1-Codex",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-5-codex",
+      "name": "OpenAI: GPT-5 Codex",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-5-chat",
+      "name": "OpenAI: GPT-5 Chat",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-5",
+      "name": "OpenAI: GPT-5",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "google/gemini-2.5-pro",
+      "name": "Google: Gemini 2.5 Pro",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "google/gemini-2.5-pro-preview",
+      "name": "Google: Gemini 2.5 Pro Preview 06-05",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "google/gemini-2.5-pro-preview-05-06",
+      "name": "Google: Gemini 2.5 Pro Preview 05-06",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.125,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "qwen/qwen3-coder-plus",
+      "name": "Qwen: Qwen3 Coder Plus",
+      "prompt_per_M": 0.65,
+      "completion_per_M": 3.25,
+      "cache_read_per_M": 0.13,
+      "discount_pct": 80.0,
+      "context": 1000000
+    },
+    {
+      "id": "deepseek/deepseek-chat-v3.1",
+      "name": "DeepSeek: DeepSeek V3.1",
+      "prompt_per_M": 0.25,
+      "completion_per_M": 0.95,
+      "cache_read_per_M": 0.13,
+      "discount_pct": 48.0,
+      "context": 163840
+    },
+    {
+      "id": "deepseek/deepseek-v3.2",
+      "name": "DeepSeek: DeepSeek V3.2",
+      "prompt_per_M": 0.269,
+      "completion_per_M": 0.4,
+      "cache_read_per_M": 0.1345,
+      "discount_pct": 50.0,
+      "context": 163840
+    },
+    {
+      "id": "deepseek/deepseek-v3.1-terminus",
+      "name": "DeepSeek: DeepSeek V3.1 Terminus",
+      "prompt_per_M": 0.27,
+      "completion_per_M": 1.0,
+      "cache_read_per_M": 0.135,
+      "discount_pct": 50.0,
+      "context": 163840
+    },
+    {
+      "id": "deepseek/deepseek-chat-v3-0324",
+      "name": "DeepSeek: DeepSeek V3 0324",
+      "prompt_per_M": 0.27,
+      "completion_per_M": 1.12,
+      "cache_read_per_M": 0.135,
+      "discount_pct": 50.0,
+      "context": 163840
+    },
+    {
+      "id": "moonshotai/kimi-k2.6",
+      "name": "MoonshotAI: Kimi K2.6",
+      "prompt_per_M": 0.684,
+      "completion_per_M": 3.42,
+      "cache_read_per_M": 0.144,
+      "discount_pct": 78.9,
+      "context": 262144
+    },
+    {
+      "id": "z-ai/glm-5.2",
+      "name": "Z.ai: GLM 5.2",
+      "prompt_per_M": 0.7798,
+      "completion_per_M": 2.4508,
+      "cache_read_per_M": 0.14482,
+      "discount_pct": 81.4,
+      "context": 1048576
+    },
+    {
+      "id": "google/gemini-3.6-flash",
+      "name": "Google: Gemini 3.6 Flash",
+      "prompt_per_M": 1.5,
+      "completion_per_M": 7.5,
+      "cache_read_per_M": 0.15,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "meta/muse-spark-1.1",
+      "name": "Meta: Muse Spark 1.1",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 4.25,
+      "cache_read_per_M": 0.15,
+      "discount_pct": 88.0,
+      "context": 1048576
+    },
+    {
+      "id": "kwaipilot/kat-coder-pro-v2.5",
+      "name": "Kwaipilot: KAT-Coder-Pro V2.5",
+      "prompt_per_M": 0.74,
+      "completion_per_M": 2.96,
+      "cache_read_per_M": 0.15,
+      "discount_pct": 79.7,
+      "context": 256000
+    },
+    {
+      "id": "google/gemini-3.5-flash",
+      "name": "Google: Gemini 3.5 Flash",
+      "prompt_per_M": 1.5,
+      "completion_per_M": 9.0,
+      "cache_read_per_M": 0.15,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "~google/gemini-flash-latest",
+      "name": "Google Gemini Flash Latest",
+      "prompt_per_M": 1.5,
+      "completion_per_M": 7.5,
+      "cache_read_per_M": 0.15,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "moonshotai/kimi-k2-thinking",
+      "name": "MoonshotAI: Kimi K2 Thinking",
+      "prompt_per_M": 0.6,
+      "completion_per_M": 2.5,
+      "cache_read_per_M": 0.15,
+      "discount_pct": 75.0,
+      "context": 262144
+    },
+    {
+      "id": "thedrummer/cydonia-24b-v4.1",
+      "name": "TheDrummer: Cydonia 24B V4.1",
+      "prompt_per_M": 0.3,
+      "completion_per_M": 0.5,
+      "cache_read_per_M": 0.15,
+      "discount_pct": 50.0,
+      "context": 131072
+    },
+    {
+      "id": "qwen/qwen3-max",
+      "name": "Qwen: Qwen3 Max",
+      "prompt_per_M": 0.78,
+      "completion_per_M": 3.9,
+      "cache_read_per_M": 0.156,
+      "discount_pct": 80.0,
+      "context": 262144
+    },
+    {
+      "id": "moonshotai/kimi-k2.7-code",
+      "name": "MoonshotAI: Kimi K2.7 Code",
+      "prompt_per_M": 0.82,
+      "completion_per_M": 3.75,
+      "cache_read_per_M": 0.16,
+      "discount_pct": 80.5,
+      "context": 262144
+    },
+    {
+      "id": "thinkingmachines/inkling",
+      "name": "Thinking Machines: Inkling",
+      "prompt_per_M": 1.0,
+      "completion_per_M": 4.05,
+      "cache_read_per_M": 0.17,
+      "discount_pct": 83.0,
+      "context": 524288
+    },
+    {
+      "id": "openai/gpt-5.3-chat",
+      "name": "OpenAI: GPT-5.3 Chat",
+      "prompt_per_M": 1.75,
+      "completion_per_M": 14.0,
+      "cache_read_per_M": 0.175,
+      "discount_pct": 90.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-5.3-codex",
+      "name": "OpenAI: GPT-5.3-Codex",
+      "prompt_per_M": 1.75,
+      "completion_per_M": 14.0,
+      "cache_read_per_M": 0.175,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-5.2-codex",
+      "name": "OpenAI: GPT-5.2-Codex",
+      "prompt_per_M": 1.75,
+      "completion_per_M": 14.0,
+      "cache_read_per_M": 0.175,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-5.2-chat",
+      "name": "OpenAI: GPT-5.2 Chat",
+      "prompt_per_M": 1.75,
+      "completion_per_M": 14.0,
+      "cache_read_per_M": 0.175,
+      "discount_pct": 90.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-5.2",
+      "name": "OpenAI: GPT-5.2",
+      "prompt_per_M": 1.75,
+      "completion_per_M": 14.0,
+      "cache_read_per_M": 0.175,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "z-ai/glm-5.1",
+      "name": "Z.ai: GLM 5.1",
+      "prompt_per_M": 0.966,
+      "completion_per_M": 3.036,
+      "cache_read_per_M": 0.1794,
+      "discount_pct": 81.4,
+      "context": 204800
+    },
+    {
+      "id": "aion-labs/aion-3.0-mini",
+      "name": "AionLabs: Aion-3.0-Mini",
+      "prompt_per_M": 0.7,
+      "completion_per_M": 1.4,
+      "cache_read_per_M": 0.18,
+      "discount_pct": 74.3,
+      "context": 131072
+    },
+    {
+      "id": "anthropic/claude-sonnet-5",
+      "name": "Anthropic: Claude Sonnet 5",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "google/gemini-3-pro-image",
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image)",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 12.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 131072
+    },
+    {
+      "id": "x-ai/grok-build-0.1",
+      "name": "xAI: Grok Build 0.1",
+      "prompt_per_M": 1.0,
+      "completion_per_M": 2.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 80.0,
+      "context": 256000
+    },
+    {
+      "id": "x-ai/grok-4.3",
+      "name": "xAI: Grok 4.3",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 2.5,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 84.0,
+      "context": 1000000
+    },
+    {
+      "id": "~google/gemini-pro-latest",
+      "name": "Google Gemini Pro Latest",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 12.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "~anthropic/claude-sonnet-latest",
+      "name": "Anthropic Claude Sonnet Latest",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "x-ai/grok-4.20-multi-agent",
+      "name": "xAI: Grok 4.20 Multi-Agent",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 2.5,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 84.0,
+      "context": 2000000
+    },
+    {
+      "id": "x-ai/grok-4.20",
+      "name": "xAI: Grok 4.20",
+      "prompt_per_M": 1.25,
+      "completion_per_M": 2.5,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 84.0,
+      "context": 2000000
+    },
+    {
+      "id": "google/gemini-3.1-pro-preview-customtools",
+      "name": "Google: Gemini 3.1 Pro Preview Custom Tools",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 12.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "aion-labs/aion-2.0",
+      "name": "AionLabs: Aion-2.0",
+      "prompt_per_M": 0.8,
+      "completion_per_M": 1.6,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 75.0,
+      "context": 131072
+    },
+    {
+      "id": "google/gemini-3.1-pro-preview",
+      "name": "Google: Gemini 3.1 Pro Preview",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 12.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "z-ai/glm-5",
+      "name": "Z.ai: GLM 5",
+      "prompt_per_M": 0.95,
+      "completion_per_M": 2.55,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 78.9,
+      "context": 204800
+    },
+    {
+      "id": "google/gemini-3-pro-image-preview",
+      "name": "Google: Nano Banana Pro (Gemini 3 Pro Image Previe",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 12.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 65536
+    },
+    {
+      "id": "mistralai/mistral-large-2407",
+      "name": "Mistral Large 2407",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 6.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 131072
+    },
+    {
+      "id": "mistralai/mixtral-8x22b-instruct",
+      "name": "Mistral: Mixtral 8x22B Instruct",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 6.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 65536
+    },
+    {
+      "id": "mistralai/mistral-large",
+      "name": "Mistral Large",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 6.0,
+      "cache_read_per_M": 0.2,
+      "discount_pct": 90.0,
+      "context": 128000
+    },
+    {
+      "id": "z-ai/glm-5v-turbo",
+      "name": "Z.ai: GLM 5V Turbo",
+      "prompt_per_M": 1.2,
+      "completion_per_M": 4.0,
+      "cache_read_per_M": 0.24,
+      "discount_pct": 80.0,
+      "context": 202752
+    },
+    {
+      "id": "z-ai/glm-5-turbo",
+      "name": "Z.ai: GLM 5 Turbo",
+      "prompt_per_M": 1.2,
+      "completion_per_M": 4.0,
+      "cache_read_per_M": 0.24,
+      "discount_pct": 80.0,
+      "context": 202752
+    },
+    {
+      "id": "openai/gpt-5.6-terra-pro",
+      "name": "OpenAI: GPT-5.6 Terra Pro",
+      "prompt_per_M": 2.5,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 0.25,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "openai/gpt-5.6-terra",
+      "name": "OpenAI: GPT-5.6 Terra",
+      "prompt_per_M": 2.5,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 0.25,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "openai/gpt-5.4",
+      "name": "OpenAI: GPT-5.4",
+      "prompt_per_M": 2.5,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 0.25,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "openai/gpt-5-image-mini",
+      "name": "OpenAI: GPT-5 Image Mini",
+      "prompt_per_M": 2.5,
+      "completion_per_M": 2.0,
+      "cache_read_per_M": 0.25,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "thedrummer/skyfall-36b-v2",
+      "name": "TheDrummer: Skyfall 36B V2",
+      "prompt_per_M": 0.55,
+      "completion_per_M": 0.8,
+      "cache_read_per_M": 0.25,
+      "discount_pct": 54.5,
+      "context": 32768
+    },
+    {
+      "id": "openai/o4-mini-high",
+      "name": "OpenAI: o4 Mini High",
+      "prompt_per_M": 1.1,
+      "completion_per_M": 4.4,
+      "cache_read_per_M": 0.275,
+      "discount_pct": 75.0,
+      "context": 200000
+    },
+    {
+      "id": "openai/o4-mini",
+      "name": "OpenAI: o4 Mini",
+      "prompt_per_M": 1.1,
+      "completion_per_M": 4.4,
+      "cache_read_per_M": 0.275,
+      "discount_pct": 75.0,
+      "context": 200000
+    },
+    {
+      "id": "qwen/qwen3.7-max",
+      "name": "Qwen: Qwen3.7 Max",
+      "prompt_per_M": 1.475,
+      "completion_per_M": 4.425,
+      "cache_read_per_M": 0.295,
+      "discount_pct": 80.0,
+      "context": 1000000
+    },
+    {
+      "id": "moonshotai/kimi-k3",
+      "name": "MoonshotAI: Kimi K3",
+      "prompt_per_M": 3.0,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 0.3,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "x-ai/grok-4.5",
+      "name": "xAI: Grok 4.5",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 6.0,
+      "cache_read_per_M": 0.3,
+      "discount_pct": 85.0,
+      "context": 500000
+    },
+    {
+      "id": "~x-ai/grok-latest",
+      "name": "xAI: Grok Latest",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 6.0,
+      "cache_read_per_M": 0.3,
+      "discount_pct": 85.0,
+      "context": 500000
+    },
+    {
+      "id": "~moonshotai/kimi-latest",
+      "name": "MoonshotAI Kimi Latest",
+      "prompt_per_M": 3.0,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 0.3,
+      "discount_pct": 90.0,
+      "context": 1048576
+    },
+    {
+      "id": "anthropic/claude-sonnet-4.6",
+      "name": "Anthropic: Claude Sonnet 4.6",
+      "prompt_per_M": 3.0,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 0.3,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "anthropic/claude-sonnet-4.5",
+      "name": "Anthropic: Claude Sonnet 4.5",
+      "prompt_per_M": 3.0,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 0.3,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "anthropic/claude-sonnet-4",
+      "name": "Anthropic: Claude Sonnet 4",
+      "prompt_per_M": 3.0,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 0.3,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "deepseek/deepseek-r1-0528",
+      "name": "DeepSeek: R1 0528",
+      "prompt_per_M": 0.5,
+      "completion_per_M": 2.15,
+      "cache_read_per_M": 0.35,
+      "discount_pct": 30.0,
+      "context": 163840
+    },
+    {
+      "id": "qwen/qwen2.5-vl-72b-instruct",
+      "name": "Qwen: Qwen2.5 VL 72B Instruct",
+      "prompt_per_M": 0.8,
+      "completion_per_M": 1.0,
+      "cache_read_per_M": 0.4,
+      "discount_pct": 50.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-5.6-sol-pro",
+      "name": "OpenAI: GPT-5.6 Sol Pro",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 30.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "openai/gpt-5.6-sol",
+      "name": "OpenAI: GPT-5.6 Sol",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 30.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "sakana/fugu-ultra",
+      "name": "Sakana: Fugu Ultra",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 30.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "anthropic/claude-opus-4.8",
+      "name": "Anthropic: Claude Opus 4.8",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 25.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "openai/gpt-chat-latest",
+      "name": "OpenAI: GPT Chat Latest",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 30.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 400000
+    },
+    {
+      "id": "~openai/gpt-latest",
+      "name": "OpenAI GPT Latest",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 30.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "openai/gpt-5.5",
+      "name": "OpenAI: GPT-5.5",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 30.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1050000
+    },
+    {
+      "id": "~anthropic/claude-opus-latest",
+      "name": "Anthropic: Claude Opus Latest",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 25.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "anthropic/claude-opus-4.7",
+      "name": "Anthropic: Claude Opus 4.7",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 25.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "anthropic/claude-opus-4.6",
+      "name": "Anthropic: Claude Opus 4.6",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 25.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "anthropic/claude-opus-4.5",
+      "name": "Anthropic: Claude Opus 4.5",
+      "prompt_per_M": 5.0,
+      "completion_per_M": 25.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 90.0,
+      "context": 200000
+    },
+    {
+      "id": "openai/o4-mini-deep-research",
+      "name": "OpenAI: o4 Mini Deep Research",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 8.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 75.0,
+      "context": 200000
+    },
+    {
+      "id": "openai/o3",
+      "name": "OpenAI: o3",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 8.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 75.0,
+      "context": 200000
+    },
+    {
+      "id": "openai/gpt-4.1",
+      "name": "OpenAI: GPT-4.1",
+      "prompt_per_M": 2.0,
+      "completion_per_M": 8.0,
+      "cache_read_per_M": 0.5,
+      "discount_pct": 75.0,
+      "context": 1047576
+    },
+    {
+      "id": "openai/o3-mini-high",
+      "name": "OpenAI: o3 Mini High",
+      "prompt_per_M": 1.1,
+      "completion_per_M": 4.4,
+      "cache_read_per_M": 0.55,
+      "discount_pct": 50.0,
+      "context": 200000
+    },
+    {
+      "id": "openai/o3-mini",
+      "name": "OpenAI: o3 Mini",
+      "prompt_per_M": 1.1,
+      "completion_per_M": 4.4,
+      "cache_read_per_M": 0.55,
+      "discount_pct": 50.0,
+      "context": 200000
+    },
+    {
+      "id": "amazon/nova-premier-v1",
+      "name": "Amazon: Nova Premier 1.0",
+      "prompt_per_M": 2.5,
+      "completion_per_M": 12.5,
+      "cache_read_per_M": 0.625,
+      "discount_pct": 75.0,
+      "context": 1000000
+    },
+    {
+      "id": "aion-labs/aion-3.0",
+      "name": "AionLabs: Aion-3.0",
+      "prompt_per_M": 3.0,
+      "completion_per_M": 6.0,
+      "cache_read_per_M": 0.75,
+      "discount_pct": 75.0,
+      "context": 131072
+    },
+    {
+      "id": "~anthropic/claude-fable-latest",
+      "name": "Anthropic: Claude Fable Latest",
+      "prompt_per_M": 10.0,
+      "completion_per_M": 50.0,
+      "cache_read_per_M": 1.0,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "anthropic/claude-fable-5",
+      "name": "Anthropic: Claude Fable 5",
+      "prompt_per_M": 10.0,
+      "completion_per_M": 50.0,
+      "cache_read_per_M": 1.0,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "anthropic/claude-opus-4.8-fast",
+      "name": "Anthropic: Claude Opus 4.8 (Fast)",
+      "prompt_per_M": 10.0,
+      "completion_per_M": 50.0,
+      "cache_read_per_M": 1.0,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "openai/gpt-5-image",
+      "name": "OpenAI: GPT-5 Image",
+      "prompt_per_M": 10.0,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 1.25,
+      "discount_pct": 87.5,
+      "context": 400000
+    },
+    {
+      "id": "openai/gpt-4o-2024-11-20",
+      "name": "OpenAI: GPT-4o (2024-11-20)",
+      "prompt_per_M": 2.5,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 1.25,
+      "discount_pct": 50.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-4o-2024-08-06",
+      "name": "OpenAI: GPT-4o (2024-08-06)",
+      "prompt_per_M": 2.5,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 1.25,
+      "discount_pct": 50.0,
+      "context": 128000
+    },
+    {
+      "id": "openai/gpt-4o",
+      "name": "OpenAI: GPT-4o",
+      "prompt_per_M": 2.5,
+      "completion_per_M": 10.0,
+      "cache_read_per_M": 1.25,
+      "discount_pct": 50.0,
+      "context": 128000
+    },
+    {
+      "id": "anthropic/claude-opus-4.1",
+      "name": "Anthropic: Claude Opus 4.1",
+      "prompt_per_M": 15.0,
+      "completion_per_M": 75.0,
+      "cache_read_per_M": 1.5,
+      "discount_pct": 90.0,
+      "context": 200000
+    },
+    {
+      "id": "anthropic/claude-opus-4",
+      "name": "Anthropic: Claude Opus 4",
+      "prompt_per_M": 15.0,
+      "completion_per_M": 75.0,
+      "cache_read_per_M": 1.5,
+      "discount_pct": 90.0,
+      "context": 200000
+    },
+    {
+      "id": "openai/gpt-5.4-image-2",
+      "name": "OpenAI: GPT-5.4 Image 2",
+      "prompt_per_M": 8.0,
+      "completion_per_M": 15.0,
+      "cache_read_per_M": 2.0,
+      "discount_pct": 75.0,
+      "context": 272000
+    },
+    {
+      "id": "openai/o3-deep-research",
+      "name": "OpenAI: o3 Deep Research",
+      "prompt_per_M": 10.0,
+      "completion_per_M": 40.0,
+      "cache_read_per_M": 2.5,
+      "discount_pct": 75.0,
+      "context": 200000
+    },
+    {
+      "id": "anthropic/claude-opus-4.7-fast",
+      "name": "Anthropic: Claude Opus 4.7 (Fast)",
+      "prompt_per_M": 30.0,
+      "completion_per_M": 150.0,
+      "cache_read_per_M": 3.0,
+      "discount_pct": 90.0,
+      "context": 1000000
+    },
+    {
+      "id": "openai/o1",
+      "name": "OpenAI: o1",
+      "prompt_per_M": 15.0,
+      "completion_per_M": 60.0,
+      "cache_read_per_M": 7.5,
+      "discount_pct": 50.0,
+      "context": 200000
+    }
+  ]
+}

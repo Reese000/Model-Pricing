@@ -1,0 +1,4 @@
+# Full raw API dump from OpenRouter — easily regenerated with curl
+# Kept out of git to avoid bloat (~530 KB); the filtered subset
+# (openrouter_models_with_cache.json) is the canonical input.
+openrouter_models_raw.json
