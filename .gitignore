@@ -2,3 +2,24 @@
 # Kept out of git to avoid bloat (~530 KB); the filtered subset
 # (openrouter_models_with_cache.json) is the canonical input.
 openrouter_models_raw.json
+
+# Public-release cleanup: caches, local tooling, logs, backups
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/
+.venv/
+venv/
+*.log
+tmp/
+temp/
+scratch/
+.idea/
+*.code-workspace
+.claude/
+.hermes/
+*.bak
+*.bak-*
+*.orig
+*~
