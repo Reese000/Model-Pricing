@@ -1,0 +1,4 @@
+id,name,prompt_cost_1M,cache_hit_cost_1M,context_length
+qwen/qwen-turbo,Qwen: Qwen-Turbo,0.0325,0.006500000000000001,131072
+qwen/qwen-plus,Qwen: Qwen-Plus,0.26,0.052000000000000005,1000000
+openai/o1,OpenAI: o1,15.0,7.5,200000

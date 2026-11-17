@@ -8,6 +8,8 @@ Data is sourced from the public OpenRouter API. The raw API response lives in `o
 
 > **Relationship note:** This project shares its data source (OpenRouter API) with the [OpenRouter_Analysis](../OpenRouter_Analysis/) project in the same workspace, but is an independent snapshot/visualization focused purely on cache-hit pricing.
 
+Cache-pricing verifier scripts and a coverage CSV are in [`openrouter-analysis/`](openrouter-analysis/).
+
 **Fetched:** 2026-07-23 from https://openrouter.ai/api/v1/models
 **Total models with cache pricing:** 184
 **Coding/reasoning models shown:** 152
